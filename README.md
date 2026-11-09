@@ -140,7 +140,7 @@ These are demonstration credentials only. Change them before any real deployment
 
 ## Technical Documentation
 
-- [Technical Design Document](ClearEntry_AI_Technical_Design_Document.docx)
+- [Technical Design Document](ClearEntry_AI_Technical_Design_Document.pdf)
 - [Deployment Guide](deployment.md)
 
 ## Validation and Testing
