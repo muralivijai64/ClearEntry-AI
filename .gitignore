@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+*.env
+
+# Database
+*.db
+
+# Uploaded documents
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Node
+node_modules/
+dist/
+
+# Editor
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+# Local source backup
+backend-source.zip
+
+# ClearEntry local files
+/backend/.env
+/backend/uploads/*
+!/backend/uploads/.gitkeep
+/backend/exports/
+/backend-source.zip
+
+# Development backups
+/frontend/src/App_backup.*
+/corrected_sources/previews/
